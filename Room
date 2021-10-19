@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T04:20:12.970Z" agent="5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/38.1  Mobile/15E148 Safari/605.1.15" etag="ffGPT0nuoutck_RUdkqi" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-19T04:21:15.942Z" agent="5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/38.1  Mobile/15E148 Safari/605.1.15" etag="fuhoeOd9sWng4DNKnnak" version="15.5.5" type="github">
   <diagram id="ylucUxGhZiUHd0hgGFX-" name="Page-1">
     <mxGraphModel dx="447" dy="798" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZHY9W8CXLEApU2O4FIS9-20" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="90" y="963" width="289" height="239" as="geometry" />
+        <mxCell id="ZHY9W8CXLEApU2O4FIS9-20" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="84" y="963" width="297" height="283" as="geometry" />
         </mxCell>
         <mxCell id="ZHY9W8CXLEApU2O4FIS9-1" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="82" y="59" width="293" height="444" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="91" y="967" width="33" height="114" as="geometry" />
         </mxCell>
         <mxCell id="ZHY9W8CXLEApU2O4FIS9-21" value="Bed" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="199" y="1036" width="182" height="166" as="geometry" />
+          <mxGeometry x="181" y="1015" width="200" height="185" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

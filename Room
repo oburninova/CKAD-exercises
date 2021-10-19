@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T04:06:32.743Z" agent="5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/38.1  Mobile/15E148 Safari/605.1.15" version="15.5.5" etag="6IOfVasupPpuuO5uGWhs" type="github"><diagram id="ylucUxGhZiUHd0hgGFX-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-19T04:09:50.703Z" agent="5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/38.1  Mobile/15E148 Safari/605.1.15" etag="-7ui4nBmUJPXPvhCHL2W" version="15.5.5" type="github">
+  <diagram id="ylucUxGhZiUHd0hgGFX-" name="Page-1">
+    <mxGraphModel dx="380" dy="678" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZHY9W8CXLEApU2O4FIS9-1" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="82" y="59" width="293" height="444" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHY9W8CXLEApU2O4FIS9-3" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="ZHY9W8CXLEApU2O4FIS9-2" target="ZHY9W8CXLEApU2O4FIS9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHY9W8CXLEApU2O4FIS9-2" value="Bed" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="82" y="351" width="208" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHY9W8CXLEApU2O4FIS9-5" value="Couch&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="86" y="170" width="80" height="167" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHY9W8CXLEApU2O4FIS9-6" value="Office table" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="84" y="59" width="148" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHY9W8CXLEApU2O4FIS9-7" value="Tv stand" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="332" y="151" width="43" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHY9W8CXLEApU2O4FIS9-8" value="Dining table" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="199" y="149" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHY9W8CXLEApU2O4FIS9-9" value="Shelf" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="340" y="380" width="35" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHY9W8CXLEApU2O4FIS9-10" value="Shelf" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="230" y="59" width="82" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
